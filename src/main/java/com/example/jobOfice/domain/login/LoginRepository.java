@@ -1,4 +1,4 @@
-package com.example.jobOfice.domain.loginandregister;
+package com.example.jobOfice.domain.login;
 
 import java.util.Optional;
 
