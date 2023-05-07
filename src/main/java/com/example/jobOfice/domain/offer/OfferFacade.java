@@ -51,7 +51,7 @@ public class OfferFacade {
                 .stream()
                 .filter(ofer -> ofer.typeOfJob().equals(TypeOfJob.REMOTE))
                 .map(OferMaper::mapfromOfer)
-                .collect(Collectors.toList());         
+                .collect(Collectors.toList());
     }
 
 
